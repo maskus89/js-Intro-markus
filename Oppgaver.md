@@ -59,7 +59,8 @@ Mange av dere kjenner Python fra før. Grunntankene er de samme: variabler, `if`
 
 **Svar:** Du skal lage en nettside der brukeren kan søke etter turer. Hvilket språk ville du brukt, og hvorfor?
 
-> _Skriv svaret ditt her._
+> Jeg hadde brukt JavaScript fordi det er det som blir brukt i nettsider for å ha funskjoner som søk og translate
+
 
 
 --- 
