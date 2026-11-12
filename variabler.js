@@ -24,3 +24,4 @@ const playermax = 16
 let liv = 3
 const høyde = 671
 let temp = -4
+
