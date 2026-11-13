@@ -25,3 +25,6 @@ let liv = 3
 const høyde = 671
 let temp = -4
 
+for (let i = 1; i < 3; i++) {
+  console.log(i);
+}
